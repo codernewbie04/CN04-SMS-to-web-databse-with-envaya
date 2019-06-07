@@ -1,4 +1,8 @@
 <?php 
+/*
+  Code By: Coder Newbie
+    Smart Coder tidak menghapus copyright :)
+  */
 require_once "config.php"; // Import Config
 require_once "EnvayaSMS.php"; // Import library Envaya
 date_default_timezone_set('Asia/Jakarta'); 
