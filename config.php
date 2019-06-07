@@ -1,7 +1,7 @@
 <?php
 
 ini_set('display_errors','0');
-$PASSWORD = 'codernewbie';
+$PASSWORD = 'codernewbie'; // Sesuaikan dengan password envaya
 
 $servername = "localhost";
 $username = "EDIT_THIS";
